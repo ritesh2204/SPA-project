@@ -1,0 +1,336 @@
+/*-------------------------------------*\
+    Color
+\*-------------------------------------*/
+
+/*
+* Heading style colors
+*/
+
+.title-underline-base-color {
+    border-color: #ff1a56;
+}
+.title-underline-thick-base-color {
+    border-color: #ff1a56;
+}
+.title-sideline-base-color:before {
+    background-color: #ff1a56;
+}
+.title-strikethrough-base-color:before {
+    background-color: #ff1a56;
+}
+
+
+/*
+* Text color
+*/
+
+.text-base-color {
+    color: #ff1a56 !important;
+}
+
+
+/*
+* Text color (on hover)
+*/
+
+.text-hover-base-color:hover,
+.text-hover-base-color:focus {
+    color: #ff1a56 !important;
+}
+
+
+/*
+* Background color
+*/
+
+.bg-base-color {
+    background-color: #ff1a56 !important;
+}
+
+
+/*
+* Background color (on hover)
+*/
+
+.bg-hover-base-color:hover {
+    background-color: #ff1a56 !important;
+}
+
+
+/*
+* Border color
+*/
+
+.border-base-color {
+    border-color: #ff1a56 !important;
+}
+
+
+/*
+* Box shadow color
+*/
+
+.box-shadow-base-color {
+    -webkit-box-shadow: 0px 0px 0px 1px #ff1a56 !important;
+    -moz-box-shadow: 0px 0px 0px 1px #ff1a56 !important;
+    box-shadow: 0px 0px 0px 1px #ff1a56 !important;
+}
+.box-shadow-thick-base-color {
+    -webkit-box-shadow: 0px 0px 0px 2px #ff1a56 !important;
+    -moz-box-shadow: 0px 0px 0px 2px #ff1a56 !important;
+    box-shadow: 0px 0px 0px 2px #ff1a56 !important;
+}
+.box-shadow-medium-thick-base-color {
+    -webkit-box-shadow: 0px 0px 0px 3px #ff1a56 !important;
+    -moz-box-shadow: 0px 0px 0px 3px #ff1a56 !important;
+    box-shadow: 0px 0px 0px 3px #ff1a56 !important;
+}
+.box-shadow-extra-thick-base-color {
+    -webkit-box-shadow: 0px 0px 0px 4px #ff1a56 !important;
+    -moz-box-shadow: 0px 0px 0px 4px #ff1a56 !important;
+    box-shadow: 0px 0px 0px 4px #ff1a56 !important;
+}
+
+
+/*
+* Button colors
+*/
+
+.btn.btn-base-color {
+    background-color: #ff1a56;
+}
+.btn.btn-base-color.btn-hover-transparent:hover {
+    border-color: #ff1a56;
+    color: #ff1a56;
+}
+.btn.btn-outline-base-color {
+    border-color: #ff1a56;
+    color: #ff1a56;
+}
+.btn.btn-outline-base-color:hover,
+.btn.btn-outline-base-color:focus {
+    background-color: #ff1a56;
+}
+.btn.btn-outline-base-color.btn-hover-transparent:hover,
+.btn.btn-outline-base-color.btn-hover-transparent:focus {
+    color: #ff1a56;
+}
+
+
+/*
+* Preloader color
+*/
+
+.pace .pace-progress {
+    background-color: #ff1a56;
+}
+
+
+/*
+* Triangle color
+*/
+
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
+.triangle-top-right.triangle-base-color {
+    border-color: transparent #ff1a56 transparent transparent;
+}
+.triangle-top-left.triangle-base-color {
+    border-color: #ff1a56 transparent transparent transparent;
+}
+.triangle-bottom-right.triangle-base-color {
+    border-color: transparent transparent #ff1a56 transparent;
+}
+.triangle-bottom-left.triangle-base-color {
+    border-color: transparent transparent transparent #ff1a56;
+}
